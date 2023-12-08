@@ -5,6 +5,21 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "04dc7a55-415c-4abc-9554-77b275ad6b93": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CHBDC_Header_Logo.png",
+            "image_width": 100,
+            "alignment": ""
+          }
+        },
+        "footer-2": {
+          "type": "text",
+          "settings": {
+            "heading": "<strong>Get In Touch<\/strong>",
+            "subtext": "<p><strong>Hours<\/strong>: 8-5 EST Mon-Fri<br\/><strong>Call Us<\/strong>: (937) 462-1860<br\/><strong>Email Us<\/strong>: <a href=\"https:\/\/www.cornholebags.com\/pages\/contact-us\" title=\"Contact Us\">Click Here<\/a><\/p>"
+          }
+        },
         "footer-0": {
           "type": "link_list",
           "settings": {
@@ -18,19 +33,13 @@
             "heading": "Helpful Info",
             "menu": "footer"
           }
-        },
-        "footer-2": {
-          "type": "text",
-          "settings": {
-            "heading": "<strong>Get In Touch<\/strong>",
-            "subtext": "<p><strong>Hours<\/strong>: 8-5 EST Mon-Fri<br\/><strong>Call Us<\/strong>: (937) 462-1860<br\/><strong>Email Us<\/strong>: <a href=\"https:\/\/www.cornholebags.com\/pages\/contact-us\" title=\"Contact Us\">Click Here<\/a><\/p>"
-          }
         }
       },
       "block_order": [
+        "04dc7a55-415c-4abc-9554-77b275ad6b93",
+        "footer-2",
         "footer-0",
-        "footer-1",
-        "footer-2"
+        "footer-1"
       ],
       "settings": {
         "color_scheme": "scheme-5",
