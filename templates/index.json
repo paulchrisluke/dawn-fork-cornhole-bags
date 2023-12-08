@@ -6,7 +6,7 @@
         "template--16348592832703__9d0db3b8-9866-4754-a5b3-c5a1671a0a41-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "WORLD SERIES OF CORNHOLE",
             "heading_size": "h1"
           }
         },
@@ -20,10 +20,10 @@
         "template--16348592832703__9d0db3b8-9866-4754-a5b3-c5a1671a0a41-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "Official WSOC Bags",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "Troy Smith Exclusive",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -35,13 +35,15 @@
         "template--16348592832703__9d0db3b8-9866-4754-a5b3-c5a1671a0a41-buttons-1"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/person-stands-on-rocks-poking-out-of-the-ocean-shoreline.jpg",
+        "image_2": "shopify:\/\/shop_images\/person-fishing-on-the-beach-is-silhouetted-at-sunset.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "bottom-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "",
-        "image_behavior": "ambient",
+        "image_behavior": "fixed",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
