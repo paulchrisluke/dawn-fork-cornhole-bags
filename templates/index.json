@@ -254,6 +254,69 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "23424d7f-7e1e-43d8-8fc8-85cbe025f817": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16348592832703__23424d7f-7e1e-43d8-8fc8-85cbe025f817-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Free Shipping<\/strong>",
+            "text": "<p>In Continental US<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16348592832703__23424d7f-7e1e-43d8-8fc8-85cbe025f817-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Call or Text (Fast Reply)<\/strong>",
+            "text": "<p>(937) 462-1860<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16348592832703__23424d7f-7e1e-43d8-8fc8-85cbe025f817-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Fast Shipping<\/strong>",
+            "text": "<p>All Orders Ship Within 48 Hours<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "09e31102-c1e4-4d6d-bb31-dfcf94a82541": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Store Hours<\/strong>",
+            "text": "<p>8-5 EST Mon-Fri<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16348592832703__23424d7f-7e1e-43d8-8fc8-85cbe025f817-column-1",
+        "template--16348592832703__23424d7f-7e1e-43d8-8fc8-85cbe025f817-column-2",
+        "template--16348592832703__23424d7f-7e1e-43d8-8fc8-85cbe025f817-column-3",
+        "09e31102-c1e4-4d6d-bb31-dfcf94a82541"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -264,6 +327,7 @@
     "a83e4924-b205-4241-ae9b-5cbe7eb118cb",
     "c16014be-d4fa-4ace-a3b7-fbd3af0254c4",
     "92358fd3-e905-421d-aacc-88800d396227",
-    "8379a30f-0cfd-4561-a2f5-500710e24ef6"
+    "8379a30f-0cfd-4561-a2f5-500710e24ef6",
+    "23424d7f-7e1e-43d8-8fc8-85cbe025f817"
   ]
 }
