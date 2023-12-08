@@ -54,8 +54,8 @@
           "type": "collapsible_tab",
           "settings": {
             "heading": "Materials",
-            "icon": "leather",
-            "content": "",
+            "icon": "clipboard",
+            "content": "<p><em>Fabric:<br\/><\/em><strong><br\/>Suede (Speed 2)<\/strong> - Slow, Controllable, Good for setting blocks, good for beginners, good for fast board conditions<br\/><br\/><strong>Reverse Rave (Speed 9)<\/strong> - Very fast, Used to push other bags up the board or for slow\/humid board conditions<br\/><br\/><em>Resin:<\/em><\/p><p><strong>Small Rec Resin<\/strong> - Soft in hand, Mixture of sizes and shapes, small amount of bounce for roll and cut shots, still lands nicely and controlled, very hole friendly<br\/><br\/><\/p>",
             "page": ""
           }
         },
@@ -74,7 +74,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "",
+            "content": "<p><strong>Bags:<\/strong><\/p><p>H: 1.25\" W: 5.75\" D: 5.75\"<br\/><br\/><strong>Boxes:<br\/><\/strong>H: 6\" W: 12\" D: 6\"<\/p>",
             "page": ""
           }
         },
