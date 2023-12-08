@@ -288,6 +288,7 @@
         "09e31102-c1e4-4d6d-bb31-dfcf94a82541": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/shipping.svg",
             "title": "<strong>Store Hours<\/strong>",
             "text": "<p>8-5 EST Mon-Fri<\/p>",
             "link_label": "",
@@ -304,9 +305,9 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "image_width": "third",
+        "image_ratio": "square",
+        "columns_desktop": 4,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
