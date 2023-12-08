@@ -5,6 +5,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "0401235f-3f12-4b08-a7de-5a3bc14f2c45": {
+          "type": "announcement",
+          "settings": {
+            "text": "Free Shipping on Orders within the Continental US",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -14,13 +21,14 @@
         }
       },
       "block_order": [
+        "0401235f-3f12-4b08-a7de-5a3bc14f2c45",
         "announcement-bar-0"
       ],
       "settings": {
         "color_scheme": "scheme-2",
         "show_line_separator": true,
         "show_social": false,
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "enable_country_selector": false,
         "enable_language_selector": false
