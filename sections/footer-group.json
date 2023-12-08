@@ -16,6 +16,7 @@
         },
         "footer-2": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "heading": "<strong>Get In Touch<\/strong>",
             "subtext": "<p><strong>Hours<\/strong>: 8-5 EST Mon-Fri<br\/><strong>Call Us<\/strong>: (937) 462-1860<br\/><strong>Email Us<\/strong>: <a href=\"https:\/\/www.cornholebags.com\/pages\/contact-us\" title=\"Contact Us\">Click Here<\/a><\/p>"
@@ -23,6 +24,7 @@
         },
         "footer-0": {
           "type": "link_list",
+          "disabled": true,
           "settings": {
             "heading": "Shop With Us",
             "menu": "main-menu"
@@ -30,6 +32,7 @@
         },
         "footer-1": {
           "type": "link_list",
+          "disabled": true,
           "settings": {
             "heading": "Helpful Info",
             "menu": "footer"
