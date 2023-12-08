@@ -54,28 +54,31 @@
         "template--16348592832703__9c60dafd-11cc-410c-b8e4-c18233793ab9-image-1": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Troy_Smith_2009.jpg"
           }
         },
-        "template--16348592832703__9c60dafd-11cc-410c-b8e4-c18233793ab9-collection-1": {
-          "type": "collection",
+        "c00aa72a-ada2-4fdd-bcdb-31dfcb763349": {
+          "type": "product",
           "settings": {
-            "collection": "patriotic-cornhole-bags"
+            "product": "",
+            "second_image": false
           }
         },
-        "ef66baa8-e572-4eef-a1a6-3a36d384b914": {
-          "type": "collection",
+        "b80653f3-42a0-41bc-9e02-3fdb6a6814aa": {
+          "type": "product",
           "settings": {
-            "collection": "funny-cornhole-bags"
+            "product": "",
+            "second_image": false
           }
         }
       },
       "block_order": [
         "template--16348592832703__9c60dafd-11cc-410c-b8e4-c18233793ab9-image-1",
-        "template--16348592832703__9c60dafd-11cc-410c-b8e4-c18233793ab9-collection-1",
-        "ef66baa8-e572-4eef-a1a6-3a36d384b914"
+        "c00aa72a-ada2-4fdd-bcdb-31dfcb763349",
+        "b80653f3-42a0-41bc-9e02-3fdb6a6814aa"
       ],
       "settings": {
-        "heading": "",
+        "heading": "Shop the Troy Smith Exclusive",
         "heading_size": "h1",
         "desktop_layout": "left",
         "mobile_layout": "column",
