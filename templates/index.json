@@ -121,7 +121,7 @@
         "title": "OUR BEST SELLING CORNHOLE BAGS",
         "heading_size": "h1",
         "description": "",
-        "show_description": false,
+        "show_description": true,
         "description_style": "body",
         "collection": "best-sellers",
         "products_to_show": 8,
