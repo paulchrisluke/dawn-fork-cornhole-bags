@@ -22,10 +22,10 @@
           "settings": {
             "button_label_1": "Official WSOC Bags",
             "button_link_1": "shopify:\/\/collections\/official-wsoc-bags",
-            "button_style_secondary_1": true,
+            "button_style_secondary_1": false,
             "button_label_2": "Troy Smith Exclusive",
             "button_link_2": "shopify:\/\/collections\/troy-smith-exclusive",
-            "button_style_secondary_2": true
+            "button_style_secondary_2": false
           }
         }
       },
@@ -42,7 +42,7 @@
         "desktop_content_position": "bottom-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-b50dea97-b370-47f6-be4b-2f0c6ba34e4d",
         "image_behavior": "fixed",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
