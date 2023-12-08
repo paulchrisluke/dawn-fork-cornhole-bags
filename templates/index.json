@@ -47,6 +47,37 @@
         "show_text_below": true
       }
     },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Thanks for visiting and looking around. We pride ourselves on offering the best Cornhole bags (sometimes called corn hole bags) for sale anywhere in the world. Our regulation Cornhole bags are made in small batches and filled by hand one at a time right here in the USA by Americans who take pride in their work. Whether you're looking for a set of <a href=\"https:\/\/www.cornholebags.com\/collections\/best-sellers\" title=\"Best Selling Cornhole Bags\"><strong>standard Cornhole bags<\/strong><\/a> or <a href=\"https:\/\/www.cornholebags.com\/collections\/pro-cornhole-bags\" title=\"Pro Cornhole Bags\"><strong>professional Cornhole bags<\/strong><\/a>, we're confident we've got what you need.<\/p><p>We <a href=\"https:\/\/www.cornholebags.com\/pages\/stitching-warranty\" title=\"Stitching Warranty\"><strong>stand behind our Cornhole bags 100%<\/strong><\/a>. If you have any issues at all, please contact us. We're not happy until you're happy. Read our <a href=\"https:\/\/www.cornholebags.com\/pages\/about-us\" title=\"About Us\"><strong>About Us<\/strong><\/a> to learn about how our passion for Cornhole led us to make the highest quality Cornhole bags available anywhere.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
     "9c60dafd-11cc-410c-b8e4-c18233793ab9": {
       "type": "collage",
       "blocks": {
@@ -83,37 +114,6 @@
         "color_scheme": "",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Thanks for visiting and looking around. We pride ourselves on offering the best Cornhole bags (sometimes called corn hole bags) for sale anywhere in the world. Our regulation Cornhole bags are made in small batches and filled by hand one at a time right here in the USA by Americans who take pride in their work. Whether you're looking for a set of <a href=\"https:\/\/www.cornholebags.com\/collections\/best-sellers\" title=\"Best Selling Cornhole Bags\"><strong>standard Cornhole bags<\/strong><\/a> or <a href=\"https:\/\/www.cornholebags.com\/collections\/pro-cornhole-bags\" title=\"Pro Cornhole Bags\"><strong>professional Cornhole bags<\/strong><\/a>, we're confident we've got what you need.<\/p><p>We <a href=\"https:\/\/www.cornholebags.com\/pages\/stitching-warranty\" title=\"Stitching Warranty\"><strong>stand behind our Cornhole bags 100%<\/strong><\/a>. If you have any issues at all, please contact us. We're not happy until you're happy. Read our <a href=\"https:\/\/www.cornholebags.com\/pages\/about-us\" title=\"About Us\"><strong>About Us<\/strong><\/a> to learn about how our passion for Cornhole led us to make the highest quality Cornhole bags available anywhere.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 40
       }
     },
     "featured_collection": {
@@ -259,8 +259,8 @@
   },
   "order": [
     "9d0db3b8-9866-4754-a5b3-c5a1671a0a41",
-    "9c60dafd-11cc-410c-b8e4-c18233793ab9",
     "rich_text",
+    "9c60dafd-11cc-410c-b8e4-c18233793ab9",
     "featured_collection",
     "a83e4924-b205-4241-ae9b-5cbe7eb118cb",
     "c16014be-d4fa-4ace-a3b7-fbd3af0254c4",
