@@ -11,18 +11,10 @@
             "text": "Free Shipping on Orders within the Continental US",
             "link": ""
           }
-        },
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "Call or Text (937) 462-1860",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "0401235f-3f12-4b08-a7de-5a3bc14f2c45",
-        "announcement-bar-0"
+        "0401235f-3f12-4b08-a7de-5a3bc14f2c45"
       ],
       "settings": {
         "color_scheme": "scheme-5",
