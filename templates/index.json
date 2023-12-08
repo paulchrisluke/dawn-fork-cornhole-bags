@@ -288,7 +288,6 @@
         "09e31102-c1e4-4d6d-bb31-dfcf94a82541": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/shipping.svg",
             "title": "<strong>Store Hours<\/strong>",
             "text": "<p>8-5 EST Mon-Fri<\/p>",
             "link_label": "",
