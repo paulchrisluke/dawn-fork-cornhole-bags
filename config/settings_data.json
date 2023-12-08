@@ -396,5 +396,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".button {border-radius: 5px;}"
+    ]
   }
 }
