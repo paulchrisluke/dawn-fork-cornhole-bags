@@ -5,26 +5,14 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "04dc7a55-415c-4abc-9554-77b275ad6b93": {
-          "type": "image",
-          "disabled": true,
+        "b9aeee2b-7dc4-40c1-bb42-53b06ec92fbe": {
+          "type": "brand_information",
           "settings": {
-            "image": "shopify:\/\/shop_images\/WSC_Logo.png",
-            "image_width": 100,
-            "alignment": ""
-          }
-        },
-        "footer-2": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "heading": "<strong>Get In Touch<\/strong>",
-            "subtext": "<p><strong>Hours<\/strong>: 8-5 EST Mon-Fri<br\/><strong>Call Us<\/strong>: (937) 462-1860<br\/><strong>Email Us<\/strong>: <a href=\"https:\/\/www.cornholebags.com\/pages\/contact-us\" title=\"Contact Us\">Click Here<\/a><\/p>"
+            "show_social": true
           }
         },
         "footer-0": {
           "type": "link_list",
-          "disabled": true,
           "settings": {
             "heading": "Shop With Us",
             "menu": "main-menu"
@@ -32,7 +20,6 @@
         },
         "footer-1": {
           "type": "link_list",
-          "disabled": true,
           "settings": {
             "heading": "Helpful Info",
             "menu": "footer"
@@ -40,8 +27,7 @@
         }
       },
       "block_order": [
-        "04dc7a55-415c-4abc-9554-77b275ad6b93",
-        "footer-2",
+        "b9aeee2b-7dc4-40c1-bb42-53b06ec92fbe",
         "footer-0",
         "footer-1"
       ],
