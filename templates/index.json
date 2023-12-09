@@ -48,6 +48,20 @@
         "show_text_below": true
       }
     },
+    "8eefc7c3-dfed-4607-8a7a-075c164f8907": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "9c60dafd-11cc-410c-b8e4-c18233793ab9": {
       "type": "collage",
       "blocks": {
@@ -233,6 +247,7 @@
   },
   "order": [
     "9d0db3b8-9866-4754-a5b3-c5a1671a0a41",
+    "8eefc7c3-dfed-4607-8a7a-075c164f8907",
     "9c60dafd-11cc-410c-b8e4-c18233793ab9",
     "rich_text",
     "featured_collection",
