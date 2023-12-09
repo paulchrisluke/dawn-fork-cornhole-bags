@@ -36,10 +36,10 @@
       ],
       "custom_css": [
         "div.banner__text.rte.subtitle {color: white;}",
-        ".banner__box.content-container.content-container--full-width-mobile.color-scheme-b50dea97-b370-47f6-be4b-2f0c6ba34e4d.gradient {border: 1px solid #89AAF4; box-shadow: 0px 0px 10px #89AAF4;}"
+        ".banner__box.content-container.content-container--full-width-mobile.color-scheme-b50dea97-b370-47f6-be4b-2f0c6ba34e4d.gradient {border: 1px solid #89aaf4; box-shadow: 0px 0px 10px #89aaf4;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Cornhole_Header_3.jpg",
+        "image": "shopify:\/\/shop_images\/Cornhole_Bag_Header_6.jpg",
         "image_overlay_opacity": 20,
         "image_height": "large",
         "desktop_content_position": "middle-center",
