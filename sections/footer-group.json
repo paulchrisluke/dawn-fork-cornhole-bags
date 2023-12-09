@@ -13,6 +13,7 @@
         },
         "footer-0": {
           "type": "link_list",
+          "disabled": true,
           "settings": {
             "heading": "Shop With Us",
             "menu": "main-menu"
@@ -20,6 +21,7 @@
         },
         "footer-1": {
           "type": "link_list",
+          "disabled": true,
           "settings": {
             "heading": "Helpful Info",
             "menu": "footer"
