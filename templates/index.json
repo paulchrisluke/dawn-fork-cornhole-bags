@@ -34,6 +34,9 @@
         "template--16348592832703__9d0db3b8-9866-4754-a5b3-c5a1671a0a41-text-1",
         "template--16348592832703__9d0db3b8-9866-4754-a5b3-c5a1671a0a41-buttons-1"
       ],
+      "custom_css": [
+        "div.banner__text.rte.subtitle {color: white; }"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Cornhole_Hero_2.png",
         "image_overlay_opacity": 0,
