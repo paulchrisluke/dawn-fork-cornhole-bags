@@ -203,10 +203,10 @@
           "background": "rgba(0,0,0,0)",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#182e49",
+          "button": "#213a76",
           "button_label": "#ffffff",
-          "secondary_button_label": "#182e49",
-          "shadow": "#121212"
+          "secondary_button_label": "#213a76",
+          "shadow": "#f5f5f5"
         }
       }
     }
