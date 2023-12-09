@@ -35,10 +35,10 @@
         "template--16348592832703__9d0db3b8-9866-4754-a5b3-c5a1671a0a41-buttons-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/person-fishing-on-the-beach-is-silhouetted-at-sunset.jpg",
+        "image": "shopify:\/\/shop_images\/Cornhole_Hero.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "adapt",
-        "desktop_content_position": "top-center",
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-b50dea97-b370-47f6-be4b-2f0c6ba34e4d",
