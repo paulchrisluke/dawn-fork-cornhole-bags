@@ -201,12 +201,12 @@
       "scheme-b50dea97-b370-47f6-be4b-2f0c6ba34e4d": {
         "settings": {
           "background": "#213a76",
-          "background_gradient": "",
+          "background_gradient": "linear-gradient(89deg, rgba(35, 49, 142, 1) 7%, rgba(33, 40, 107, 1) 94%)",
           "text": "#ffffff",
           "button": "#dd1d1d",
           "button_label": "#ffffff",
           "secondary_button_label": "#213a76",
-          "shadow": "#fff"
+          "shadow": "#ffffff"
         }
       }
     }
