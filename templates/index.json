@@ -130,6 +130,9 @@
         "template--16996482220264__ad10af87-c10b-4ca9-81ef-aa527bc17762-text-1",
         "template--16996482220264__ad10af87-c10b-4ca9-81ef-aa527bc17762-button-1"
       ],
+      "custom_css": [
+        "{border: 1px solid #89aaf4; box-shadow: 0px 0px 10px #89aaf4;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/TroySmith_10White.png",
         "height": "adapt",
@@ -139,7 +142,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "section_color_scheme": "scheme-2",
-        "color_scheme": "",
+        "color_scheme": "scheme-b50dea97-b370-47f6-be4b-2f0c6ba34e4d",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
