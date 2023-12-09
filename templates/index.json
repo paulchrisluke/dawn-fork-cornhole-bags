@@ -35,7 +35,8 @@
         "template--16348592832703__9d0db3b8-9866-4754-a5b3-c5a1671a0a41-buttons-1"
       ],
       "custom_css": [
-        "div.banner__text.rte.subtitle {color: white;}"
+        "div.banner__text.rte.subtitle {color: white;}",
+        ".banner__box.content-container.content-container--full-width-mobile.color-scheme-b50dea97-b370-47f6-be4b-2f0c6ba34e4d.gradient {border: 1px solid #546DBF; \/* Adds a border with color #546DBF *\/ box-shadow: 0px 0px 10px #546DBF; \/* Adds a shadow with color #546DBF *\/}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Cornhole_Header_3.jpg",
