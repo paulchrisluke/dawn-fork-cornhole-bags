@@ -6,21 +6,21 @@
         "template--16348592832703__9d0db3b8-9866-4754-a5b3-c5a1671a0a41-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "WORLD SERIES OF CORNHOLE",
-            "heading_size": "h1"
+            "heading": "Bag Every Win.",
+            "heading_size": "h0"
           }
         },
         "template--16348592832703__9d0db3b8-9866-4754-a5b3-c5a1671a0a41-text-1": {
           "type": "text",
           "settings": {
-            "text": "ACO-approved, made in 🇺🇸",
+            "text": "Official bags of the WORLD SERIES OF CORNHOLE. Elevate your game, master the toss, and become a legend. Proudly Made in 🇺🇸",
             "text_style": "body"
           }
         },
         "template--16348592832703__9d0db3b8-9866-4754-a5b3-c5a1671a0a41-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop Official WSOC Bags",
+            "button_label_1": "Official WSOC Bags",
             "button_link_1": "shopify:\/\/collections\/official-wsoc-bags",
             "button_style_secondary_1": false,
             "button_label_2": "",
@@ -35,13 +35,13 @@
         "template--16348592832703__9d0db3b8-9866-4754-a5b3-c5a1671a0a41-buttons-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner4.jpg",
+        "image": "shopify:\/\/shop_images\/person-fishing-on-the-beach-is-silhouetted-at-sunset.jpg",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "top-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "scheme-5",
+        "color_scheme": "scheme-b50dea97-b370-47f6-be4b-2f0c6ba34e4d",
         "image_behavior": "fixed",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
