@@ -48,8 +48,8 @@
         "color_scheme": "scheme-b50dea97-b370-47f6-be4b-2f0c6ba34e4d",
         "image_behavior": "fixed",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "stack_images_on_mobile": false,
+        "show_text_below": false
       }
     },
     "8eefc7c3-dfed-4607-8a7a-075c164f8907": {
