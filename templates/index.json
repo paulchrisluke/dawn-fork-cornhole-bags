@@ -57,30 +57,23 @@
             "image": "shopify:\/\/shop_images\/Troy_Smith_2009.jpg"
           }
         },
-        "5a9dc112-05db-4eb7-9838-bab48d490a00": {
-          "type": "collection",
-          "settings": {
-            "collection": "troy-smith-exclusive"
-          }
-        },
         "b80653f3-42a0-41bc-9e02-3fdb6a6814aa": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "troy-smith-10",
             "second_image": false
           }
         }
       },
       "block_order": [
         "template--16348592832703__9c60dafd-11cc-410c-b8e4-c18233793ab9-image-1",
-        "5a9dc112-05db-4eb7-9838-bab48d490a00",
         "b80653f3-42a0-41bc-9e02-3fdb6a6814aa"
       ],
       "settings": {
         "heading": "Shop the Troy Smith Exclusive",
         "heading_size": "h1",
         "desktop_layout": "right",
-        "mobile_layout": "column",
+        "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "",
         "padding_top": 36,
