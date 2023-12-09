@@ -110,6 +110,9 @@
         "collapsible-row-3",
         "share"
       ],
+      "custom_css": [
+        ".quantity:after{border-radius: 14px;}"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "",
