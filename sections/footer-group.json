@@ -33,7 +33,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-3",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "Find out when new designs are released and get discount offers.",
         "enable_follow_on_shop": false,
         "show_social": true,
