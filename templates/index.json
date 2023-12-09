@@ -35,14 +35,14 @@
         "template--16348592832703__9d0db3b8-9866-4754-a5b3-c5a1671a0a41-buttons-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/banner3.png",
+        "image": "shopify:\/\/shop_images\/banner4.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "scheme-5",
-        "image_behavior": "ambient",
+        "image_behavior": "fixed",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
